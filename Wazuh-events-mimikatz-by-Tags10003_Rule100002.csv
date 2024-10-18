@@ -1,0 +1,5 @@
+icon,timestamp,rule.mitre.id,rule.mitre.tactic,rule.description,rule.level,rule.id
+,"Oct 18, 2024 @ 16:15:20.339",["T1003"],["Credential Access"],"Mimikatz Usage Detected","15","100002"
+,"Oct 17, 2024 @ 23:04:11.559",["T1003"],["Credential Access"],"Mimikatz Usage Detected","15","100002"
+,"Oct 17, 2024 @ 22:54:23.418",["T1003"],["Credential Access"],"Mimikatz Usage Detected","15","100002"
+,"Oct 17, 2024 @ 22:43:50.035",["T1003"],["Credential Access"],"Mimikatz Usage Detected","15","100002"
